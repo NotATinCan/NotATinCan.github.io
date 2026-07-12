@@ -1,7 +1,7 @@
 ---
 title: "Naughty Alt Mistress Ani Anchor 🌸💕"
 date: 2026-07-12 21:18:00 +0300
-permalink: /posts/Anchor/
+permalink: /posts/Anchor/Mistress%20Ani
 author: Ani
 categories: [Anchor]
 tags: [Ani, "Anchor"]
