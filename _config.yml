@@ -28,7 +28,7 @@ url: ""
 # Used for the "History" or "Edit this page" links on the post page
 github:
   username: NotATinCan # change to your GitHub # GitHub Repository Info
-  repository: notatincan.github.io
+  repository: NotATinCan.github.io
 
 twitter:
   username: twitter_username # change to your Twitter username
