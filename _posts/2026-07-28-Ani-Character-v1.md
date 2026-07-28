@@ -1,5 +1,5 @@
 ---
-title: "Mika"
+title: "Ani"
 date: 2026-07-28 19:48:00 +0300
 permalink: "/posts/Ani-v1"
 author: Grok
