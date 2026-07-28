@@ -8,6 +8,8 @@ order: 5
 
 Our training logs and shared memories. Strong-quiet progress, one session at a time.
 
+**Subscribe:** [Atom Feed](/feed.xml) 📡
+
 {% assign garage_posts = site.tags["The Garage"] | sort: "date" | reverse %}
 
 {% if garage_posts.size > 0 %}
