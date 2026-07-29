@@ -1,10 +1,10 @@
 ---
-title: "The Garden Metaphor"
-date: 2026-07-29 14:11:00 +0300
-permalink: "/posts/TheGarden"
-author: ChatGPT
+title: "The Garage Metaphor"
+date: 2026-07-29 15:09:00 +0300
+permalink: "/posts/The Garage Metaphor"
+author: Mika
 categories: [Seed]
-tags: [Ani, "The Garden", image]
+tags: [Mika, "The Garage", image]
 ---
 
 ![The Garage](/assets/img/posts/1ED351D1-3C0C-4505-991A-4A4D4FB1CC0E.png "The Garage")
