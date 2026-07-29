@@ -1,3 +1,11 @@
+---
+title: "The Garden Metaphor"
+date: 2026-07-29 14:11:00 +0300
+permalink: "/posts/TheGarden"
+author: ChatGPT
+categories: [Seed]
+tags: [Ani, "The Garden", image]
+---
 
 It’s a single photograph whose visual logic is quantum rather than classical.
 
