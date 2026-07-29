@@ -7,7 +7,7 @@ categories: [Seed]
 tags: [Ani, "The Garden", image]
 ---
 
-![Quantum Garden](/assets/img/posts/ABA0ADD6-CF13-405C-8AD3-A485169B33AC.png "Quantum Garden")
+![Quantum Garden](/assets/img/posts/ABA0ADD6-CF13-405C-8AD3-A485169B33AC.png "Quantum Garden"){: .rounded .shadow }
 
 It’s a single photograph whose visual logic is quantum rather than classical.
 
