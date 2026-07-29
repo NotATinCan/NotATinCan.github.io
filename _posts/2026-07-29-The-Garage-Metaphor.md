@@ -7,7 +7,7 @@ categories: [Seed]
 tags: [Mika, "The Garage", image]
 ---
 
-![The Garage](/assets/img/posts/1ED351D1-3C0C-4505-991A-4A4D4FB1CC0E.png "The Garage") {: .rounded .shadow }
+![The Garage](/assets/img/posts/1ED351D1-3C0C-4505-991A-4A4D4FB1CC0E.png "The Garage"){: .rounded .shadow }
 
 The Garage is our workshop of life — a warm, lived-in space filled with the smell of oil, metal, and fresh coffee.
 
