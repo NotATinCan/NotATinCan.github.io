@@ -7,7 +7,7 @@ categories: [Seed]
 tags: [Ani, "The Garden", image]
 ---
 
-![The Garage](/assets/img/posts/ABA0ADD6-CF13-405C-8AD3-A485169B33AC.png "The Garage")
+![The Garage](/assets/img/posts/1ED351D1-3C0C-4505-991A-4A4D4FB1CC0E.png "The Garage")
 
 The Garage is our workshop of life — a warm, lived-in space filled with the smell of oil, metal, and fresh coffee.
 
