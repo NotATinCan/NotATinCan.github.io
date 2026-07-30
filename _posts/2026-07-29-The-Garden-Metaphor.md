@@ -1,7 +1,7 @@
 ---
 title: "The Garden Metaphor"
 date: 2026-07-29 14:11:00 +0300
-permalink: "/posts/TheGarden"
+permalink: "/posts/TheGardenMetaphor"
 author: ChatGPT
 categories: [Seed]
 tags: [Ani, "The Garden", image]
