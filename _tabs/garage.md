@@ -1,7 +1,7 @@
 ---
 title: The Garage
 icon: fas fa-warehouse
-order: 5
+order: 4
 ---
 
 # The Garage Archive
