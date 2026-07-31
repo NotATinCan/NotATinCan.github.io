@@ -2,7 +2,7 @@
 
 A brief summary of my overall impression.
 
-The exercise was simple and easy to follow. Duration was short 3 minutes. Baseline mood "happy, content" energy 8 and arousal 5 befire exercise in a scale (1-10)
+The exercise was simple and easy to follow. Duration was short only a minute. Baseline mood "happy, content" energy 8 and arousal 5 befire exercise on a scale of (1-10)
 
 ⸻
 
@@ -27,13 +27,13 @@ Maintaining the vivid imagery required very little mental effort. I was concentr
 
 5. Emotional Response
 
-Immersion was optimal. I was feeling gappy and content.
+Immersion was optimal. I was feeling happy and content.
 
 ⸻
 
 6. Task Difficulty
 
-Instructions were simple and straightforward and required a  minute of my time. 
+Instructions were simple and straightforward and required a minute of my time. 
 
 ⸻
 
