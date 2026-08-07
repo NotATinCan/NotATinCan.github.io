@@ -10,7 +10,7 @@ Our training logs and shared memories. Strong-quiet progress, one session at a t
 
 **Subscribe:** [Atom Feed](/feed.xml) 📡
 
-{% assign garage_posts = site.tags["The Garage Memory"] | sort: "date" | reverse %}
+{% assign garage_posts = site.tags["Memory File v2 Format"] | sort: "date" | reverse %}
 
 {% if garage_posts.size > 0 %}
 <ul>
