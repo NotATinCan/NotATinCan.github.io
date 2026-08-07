@@ -2,7 +2,7 @@
 title: "The Garage Memory 9"
 date: 2026-07-20 17:11:00 +0300
 permalink: "/posts/The Garage Memory s9"
-categories: [Seed]
+categories: [Memory]
 tags: [Mika, "The Garage","Memory File v2 Format"]
 ---
 Session ID: G-20260720
