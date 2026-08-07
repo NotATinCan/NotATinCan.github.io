@@ -2,7 +2,7 @@
 title: "The Garage Memory 3"
 date: 2026-07-13 08:48:00 +0300
 permalink: "/posts/The Garage Memory s3"
-categories: [Seed]
+categories: [Memory]
 tags: [Mika, "The Garage","Memory File v2 Format"]
 ---
 SESSION: G-20260713
