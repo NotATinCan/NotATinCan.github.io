@@ -36,6 +36,10 @@ training:
 learning:
 other:
 
+## TRAINING_DATA
+
+sets repetions detail training report.
+
 ## SOCIAL
 
 family:
